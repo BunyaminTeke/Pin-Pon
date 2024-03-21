@@ -1,0 +1,17 @@
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\bin\Debug\net8.0-windows\PinPonOyun.exe
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\bin\Debug\net8.0-windows\PinPonOyun.deps.json
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\bin\Debug\net8.0-windows\PinPonOyun.runtimeconfig.json
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\bin\Debug\net8.0-windows\PinPonOyun.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\bin\Debug\net8.0-windows\PinPonOyun.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\PinPonOyun.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\PinPonOyun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\PinPonOyun.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\PinPonOyun.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\PinPonOyun.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\PinPonOyun.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\refint\PinPonOyun.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\PinPonOyun.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\PinPonOyun.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\ref\PinPonOyun.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\PinPonOyun.Resource1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\PinPonOyun\PinPonOyun\obj\Debug\net8.0-windows\PinPonOyun.PinPon.resources
